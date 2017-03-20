@@ -4,12 +4,8 @@ html {
 
 body {
 	background-image: url("../images/contemporary_china.png");
-
-}
-
-.wrapper {
 	width: 960px;
-	margin: 0 auto;
+	margin: auto;
 }
 
 /*Top Navigation Bar*/
@@ -106,23 +102,6 @@ a:hover {
 .nameform {
 	padding: 5px;
 	color: #777777;	
-	width: 100%;
-}
-
-.message {
-	width: 100%;
-}
-
-.button {
-	background-color: #4aaaa5;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
 }
 
 
@@ -182,7 +161,7 @@ p {
 }
 
 .icons {
-	margin: 10px;
+	margin: 15px;
 	text-align: center;
 }
 
@@ -339,7 +318,6 @@ footer {
 	}	
 
 }
-
 
 
 
