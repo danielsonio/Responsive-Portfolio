@@ -102,6 +102,11 @@ a:hover {
 .nameform {
 	padding: 5px;
 	color: #777777;	
+	width: 100%;
+}
+
+.message {
+	width: 100%;
 }
 
 
@@ -161,7 +166,7 @@ p {
 }
 
 .icons {
-	margin: 15px;
+	margin: 10px;
 	text-align: center;
 }
 
